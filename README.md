@@ -28,7 +28,7 @@ This section describes technical prerequisites for JDeveloping with Frappe. It i
 
 *   [Javascript](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Learn JavaScript - Full Course for Beginners(freeCodeCamp)
 
-*  [jquery](https://www.youtube.com/watch?v=jVe1GBCqFIE&list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) - jQuery Tutorials for Beginners (By The Net Ninja)
+*  [Jquery](https://www.youtube.com/watch?v=jVe1GBCqFIE&list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) - jQuery Tutorials for Beginners (By The Net Ninja)
 
 *   [Jinja Templating](https://www.youtube.com/watch?v=_lDAixFBytY&list=PLPuIxsLNLLUrLwGGE0Xxyaqk0XDvBwyiZ) - Build web views templates with Jinja
 *   [Git/Github](https://www.youtube.com/watch?v=8JJ101D3knE) - Git Tutorial for Beginners: Learn Git in 1 Hour
