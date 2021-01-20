@@ -20,12 +20,18 @@ Mastering Frappe Roadmap
 ## Prerequisite
 This section describes technical prerequisites for JDeveloping with Frappe. It include Links to Videos, Course and Articles that complete beginners can use to master those technologies.
 
-*   [Python](#) - Resources about learning python.
+*   [Python](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Python Tutorial - Python for Beginners [Full Course].
 *   [MariaDB / Postgres](#) - on basics of Databes management with MariaDB / Postgres, Replication, encryption
-*   [HTML / CSS](#) - Mastering HTML and CSS
-*   [Javascript / jquery](#) - Resources for learning Javascript / Jquery
-*   [Jinja Templating](#) - Build web views templates with Jinja
-*   [Git/Github](#) - Version control with Github
+*   [HTML](https://www.youtube.com/watch?v=UB1O30fR-EE) - HTML Crash Course For Absolute Beginners
+* [CSS](https://www.youtube.com/watch?v=yfoY53QXEnI) - CSS Crash Course For Absolute Beginners
+
+
+*   [Javascript](https://www.youtube.com/watch?v=PkZNo7MFNFg) - Learn JavaScript - Full Course for Beginners(freeCodeCamp)
+
+*  [jquery](https://www.youtube.com/watch?v=jVe1GBCqFIE&list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) - jQuery Tutorials for Beginners (By The Net Ninja)
+
+*   [Jinja Templating](https://www.youtube.com/watch?v=_lDAixFBytY&list=PLPuIxsLNLLUrLwGGE0Xxyaqk0XDvBwyiZ) - Build web views templates with Jinja
+*   [Git/Github](https://www.youtube.com/watch?v=8JJ101D3knE) - Git Tutorial for Beginners: Learn Git in 1 Hour
 
 ## Setting up Bench
 
