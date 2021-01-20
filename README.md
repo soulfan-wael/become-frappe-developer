@@ -36,9 +36,10 @@ This section describes technical prerequisites for JDeveloping with Frappe. It i
 ## Setting up Bench
 
 *   [Setup Bench and Frappe](/Bench/Installation.md) - Videos and Articles on how to Set Up Frappe from Scratch 
-*   [Creating Sites](#)
-*   [Managing Sites With bench](#)
-*   [Bench commands](#)
+*   [Creating Sites](https://www.youtube.com/watch?v=npgzgSAOJew)
+*   [Managing Sites With bench]
+*   [Bench Commands Cheatsheet
+](https://frappeframework.com/docs/user/en/bench/resources/bench-commands-cheatsheet)
 
 ## Understanding Frappe
 
