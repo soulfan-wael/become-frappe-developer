@@ -21,7 +21,7 @@ Mastering Frappe Roadmap
 This section describes technical prerequisites for JDeveloping with Frappe. It include Links to Videos, Course and Articles that complete beginners can use to master those technologies.
 
 *   [Python](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - Python Tutorial - Python for Beginners [Full Course].
-*   [MariaDB / Postgres](#) - on basics of Databes management with MariaDB / Postgres, Replication, encryption
+*   [MariaDB](https://www.youtube.com/watch?v=qxPnGlIxYC8) - basics of Database management with MariaDB
 *   [HTML](https://www.youtube.com/watch?v=UB1O30fR-EE) - HTML Crash Course For Absolute Beginners
 * [CSS](https://www.youtube.com/watch?v=yfoY53QXEnI) - CSS Crash Course For Absolute Beginners
 
